@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 I am Jun Long from sunny island Singapore! :grin:
 
 
->>> I love the idea of open-source and aspire to one day, be able to create software that is used by many and greatly benefit others.
-
->>> I enjoy playing around with my Raspberry Pi by self-hosting my own softwares such as Pi-hole, Nextcloud etc. Am always on a look-out for other amazing self-hosted solutions!
+- I love the idea of open-source and aspire to one day, be able to create software that is used by many and greatly benefit others.
+- I enjoy playing around with my Raspberry Pi by self-hosting my own softwares such as Pi-hole, Nextcloud etc. Am always on a look-out for other amazing self-hosted solutions!
