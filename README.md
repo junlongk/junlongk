@@ -1,18 +1,21 @@
-# Hello!
+# Hi, I'm Jun Long 👋
 
-I am Jun Long from the sunny island, Singapore! :grin:
-I did a career switch and am now currently a trainee in software development.
+I'm a software engineer in Singapore, working mainly with **Java, Spring Boot, and Spring Batch**. I build backend services for core banking and have also worked in production support and site reliability, investigating incidents and keeping batch jobs and service flows running.
 
-I came from an academic background of aerospace, had industrial experience from the marine industry and project management experience from the industry of industrial equipments.
+I switched into software engineering after working in the marine industry. That background taught me to think about how systems behave in the real world: how they fail, how people operate them, and how to make them easier to maintain.
 
-Technologies that I am familiar:
+### What I work with
 
-- Javascript: React, Next.js, Angular, Node.js
-- Java: Spring Boot
-- Databases: MySQL, MongoDB, Redis
+- **Backend:** Java, Spring Boot, Spring Batch, REST APIs
+- **Data and messaging:** PostgreSQL, MySQL, Redis, Kafka
+- **Operations:** Linux, shell scripting, Jenkins, OpenShift, Docker
+- **Other development:** TypeScript, React, React Native
 
-More about me:
-- I love the idea of open-source and aspire to one day, be able to create software that is used by many and greatly benefit others.
-- I enjoy messing around with my Raspberry Pi by self-hosting my own softwares such as Pi-hole, Nextcloud etc. Am always on a look-out for other amazing self-hosted solutions!
+### Projects
 
-<img src="https://myreadme.vercel.app/api/embed/junlongk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+- **[EchoPrep](https://github.com/junlongk/echoprep)** — A voice-based mock interview app built with React Native and Expo, using speech recognition, text-to-speech, and AI feedback.
+- **[SaveUp](https://github.com/junlongk/SaveUp)** — An expense tracker built with Spring Boot and Angular.
+
+Outside work, I enjoy building useful tools, running a small self-hosted homelab, and documenting the little ecosystems I create through [Building Little Worlds](https://www.instagram.com/buildinglittleworlds/).
+
+[Portfolio](https://junlongk.com)
