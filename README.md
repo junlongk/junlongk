@@ -14,7 +14,6 @@ I switched into software engineering after working in the marine industry. That 
 ### Projects
 
 - **[EchoPrep](https://github.com/junlongk/echoprep)** — A voice-based mock interview app built with React Native and Expo, using speech recognition, text-to-speech, and AI feedback.
-- **[SaveUp](https://github.com/junlongk/SaveUp)** — An expense tracker built with Spring Boot and Angular.
 
 Outside work, I enjoy building useful tools, running a small self-hosted homelab, and documenting the little ecosystems I create through [Building Little Worlds](https://www.instagram.com/buildinglittleworlds/).
 
